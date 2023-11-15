@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe5f607b-8b09-47d2-8c46-7b6cc711374f" name="Changes" comment="Updating aspects of the page, to allow for proper communication between coach and athlete" />
+    <list default="true" id="fe5f607b-8b09-47d2-8c46-7b6cc711374f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +39,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/style/images" />
       <recent name="$PROJECT_DIR$/style/assets" />
       <recent name="$PROJECT_DIR$/style" />
     </key>
@@ -78,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700062339897</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="testing for photo addition into adding life for content in project">
+      <created>1700062916366</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700062916367</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +106,7 @@
     <MESSAGE value="proejct 1" />
     <MESSAGE value="Updating front end for experience of user" />
     <MESSAGE value="Updating aspects of the page, to allow for proper communication between coach and athlete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating aspects of the page, to allow for proper communication between coach and athlete" />
+    <MESSAGE value="testing for photo addition into adding life for content in project" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing for photo addition into adding life for content in project" />
   </component>
 </project>
