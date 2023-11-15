@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe5f607b-8b09-47d2-8c46-7b6cc711374f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/style/images/IMG_0029.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +113,28 @@
       <option name="project" value="LOCAL" />
       <updated>1700065015246</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Updating and adding more pictures into the site">
+      <created>1700076288654</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1700076288654</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updating and adding more pictures into the site">
+      <created>1700076429945</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1700076429945</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updating and adding more pictures into the site">
+      <created>1700076568200</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1700076568200</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +153,7 @@
     <MESSAGE value="Updating front end for experience of user" />
     <MESSAGE value="Updating aspects of the page, to allow for proper communication between coach and athlete" />
     <MESSAGE value="testing for photo addition into adding life for content in project" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing for photo addition into adding life for content in project" />
+    <MESSAGE value="Updating and adding more pictures into the site" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating and adding more pictures into the site" />
   </component>
 </project>
