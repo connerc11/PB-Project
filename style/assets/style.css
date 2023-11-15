@@ -19,8 +19,8 @@ header {
 
 header h1 {
   font-weight: bold;
-  font-size: 36px;
-  color: #fce138;
+  font-size: 40px;
+  color: blue;
   margin: 0;
 }
 
@@ -133,8 +133,6 @@ footer a {
   padding: 10px 20px;
   font-size: 16px;
 }
-
-/*HERO STYLES END */
 
 .intro {
   text-align: center;
